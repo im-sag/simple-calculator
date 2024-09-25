@@ -1,2 +1,2 @@
 # simple-calculator
-here is code of simple calculator app
+hellow sir/mam here is my html and css code for simple calculator hope you all like it...
